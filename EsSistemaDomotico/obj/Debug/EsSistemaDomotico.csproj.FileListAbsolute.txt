@@ -1,0 +1,7 @@
+C:\Users\lorenzo\Desktop\c sharp\EsSistemaDomotico\EsSistemaDomotico\bin\Debug\EsSistemaDomotico.exe.config
+C:\Users\lorenzo\Desktop\c sharp\EsSistemaDomotico\EsSistemaDomotico\bin\Debug\EsSistemaDomotico.exe
+C:\Users\lorenzo\Desktop\c sharp\EsSistemaDomotico\EsSistemaDomotico\bin\Debug\EsSistemaDomotico.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsSistemaDomotico\EsSistemaDomotico\obj\Debug\EsSistemaDomotico.csproj.AssemblyReference.cache
+C:\Users\lorenzo\Desktop\c sharp\EsSistemaDomotico\EsSistemaDomotico\obj\Debug\EsSistemaDomotico.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsSistemaDomotico\EsSistemaDomotico\obj\Debug\EsSistemaDomotico.exe
+C:\Users\lorenzo\Desktop\c sharp\EsSistemaDomotico\EsSistemaDomotico\obj\Debug\EsSistemaDomotico.pdb
